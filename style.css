@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+header{
+    background: url("image/Rectangle (2).png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+header .top2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+header .top2 li{
+    margin-right: 40px;
+    padding-top: 20px;
+}
+header .top2 ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+header .mid2 h1{
+    text-align: center;
+    color: #D4C17F;
+    font-family: 'Playfair Display', serif;
+    padding-top: 170px;
+    font-size: 50px;
+}
+header .mid2 img{
+    padding: 150px 620px 200px 620px;
+}
+header .bot2{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 120px;
+}
+header .bot2 .first2  {
+    display: flex;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+header .bot2 .first2 .text2 p{
+    padding-left: 40px;
+}
+header .bot2 .second2 {
+    display: flex;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+header .bot2 .second2 .text2 p{
+    padding-left: 40px;
+}
+
+.like{
+    background: slategray;
+}
+.box3{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.box3 .cat h2{
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.row{
+    width: 100%;
+}
+.liike{
+    background-color:slategray ;
+}
+.liike .row .col-lg-6 .dog1{
+    background: url("Rectangle (4).png");
+    height: 320px;
+    width: 535px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.liike .row .col-lg-6 .dog2{
+    background: url("Rectangle (2).png");
+    height: 320px;
+    width: 535px;
+}
+.liike .row .col-lg-6 .dog3{
+    background: url("Rectangle (3).png");
+    height: 320px;
+    width: 535px;
+    margin-top: 10px;
+}
+.liike .row .col-lg-6 .dog4{
+    background: url("Rectangle (3).png");
+    height: 320px;
+    width: 535px;
+}
+.row .col-lg-6 .dog1 h3{
+    position: absolute;
+    bottom: 30px;
+    color: white;
+    font-size: 30px;
+}
+.row .col-lg-6 .dog4 h3{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+}
+.row .col-lg-6 .dog3 h3{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+}
+.row .col-lg-6 .dog2 h3{
+    position: absolute;
+    bottom: 30px;
+    color: white;
+    font-size: 30px;
+}
+.tv .h{
+    color: orange;
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+section{
+    background: url("image/Rectangle (3).png");
+}
+.box4{
+    display: flex;
+    justify-content: space-between;
+   padding-top: 180px;
+    width: 100%;
+    align-items: center;
+    padding-bottom: 180px;
+}
+.box4 .left4{
+    width: 50%;
+}
+.box4 .left4 h3{
+    color: #D4C17F;
+}
+.box4 .left4 p{
+    color: #FFFFFF;
+}
+.box4 .right4{
+    width: 50%;
+}
+.box4 .top4{
+    display: flex;
+    width: 50%;
+}
+.box4 .top4 input{
+    margin-right: 30px;
+}
+.box4 .bottom4{
+    display: flex;
+width: 50%;
+}
+.box4 .bottom4 .btn button{
+    background: url("image/Rectangle 2.2.png");
+    padding: 4px 30px;
+}
+.img4 .imgg4{
+    text-align: center;
+    position: relative;
+}
+.imgg4 .play{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.sect1{
+    background: black;
+}
+.sect1 h5{
+    font-size: 36px;
+    color: #D4C17F;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.sect1 .image1 img{
+
+}
+.sect1 .inp1 h6{
+    font-size: 36px;
+    color: #D4C17F;
+    padding-top: 100px;
+    padding-bottom: 61px;
+}
+.sect1 .input1{
+    display: flex;
+    padding-top: 61px;
+    padding-bottom: 180px;
+}
+.sect1 .input1 p{
+    font-size: 13px;
+    color: #E7E7E7;
+    margin-right: 35px;
+}
+.sect1 .input1 input{
+    background: #626262 ;
+    color: #BEBEBE;
+    margin-right: 30px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+.sect1 .inpkart input{
+    background: #D4C17F;
+    color: #FFFFFF;
+}
+
+footer{
+    background: #2D343C;
+}
+footer .last4{
+    display: flex;
+    padding-top: 60px;
+    color: white;
+    justify-content: space-between;
+}
+.last4 ul{
+    list-style: none;
+}
